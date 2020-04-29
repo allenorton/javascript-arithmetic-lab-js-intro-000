@@ -5,7 +5,6 @@ function subtract(x,y) {
   return x - y
 }
 function multiply(x,y) {
-  console.log(x*y)
   return x*y
 }
 function divide(x,y) {
